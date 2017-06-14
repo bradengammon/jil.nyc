@@ -7,7 +7,7 @@ body, html {
 
 .music-video {
     display: block;
-    height: 10%;
+    height: 90%;
     width: 100%;
 }
 
@@ -46,7 +46,7 @@ body, html {
     max-height:92%;
     display: inline-block;
     vertical-align: middle;
-    background: black;
+    background: white;
     border-radius: 50%;
     padding: 4%;
 }
